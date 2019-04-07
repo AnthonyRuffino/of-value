@@ -1,6 +1,6 @@
 {
   "name": "of-value",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Strip the keys from an object if the values are not defined",
   "main": "index.js",
   "scripts": {
