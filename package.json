@@ -1,0 +1,24 @@
+{
+  "name": "of-value",
+  "version": "1.0.0",
+  "description": "Strip the keys from an object if the values are not defined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyRuffino/of-value.git"
+  },
+  "keywords": [
+    "undefined",
+    "keys",
+    "remove"
+  ],
+  "author": "Anthony Ruffino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyRuffino/of-value/issues"
+  },
+  "homepage": "https://github.com/AnthonyRuffino/of-value#readme"
+}
