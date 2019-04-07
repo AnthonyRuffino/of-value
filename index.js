@@ -4,7 +4,7 @@
 const OfValue = {};
 
 OfValue.stripUndefined = function (data) {
-  Object.entries(data).filter(d => d[1] !== undefined).reduce((acc, it) => {
+  return Object.entries(data).filter(d => d[1] !== undefined).reduce((acc, it) => {
 	  acc[it[0]] = it[1];
 	  return acc;
 	}, {});
